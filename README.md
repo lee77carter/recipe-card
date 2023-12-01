@@ -5,4 +5,4 @@
 ## Description
 This website is a static display showcasing delectable recipes.
 
-<a href="https://github.com/lee77carter/recipe-card">Visit Recipe Collection Card Here!</a>  
+<a href="https://lee77carter.github.io/recipe-card/">Visit Recipe Collection Card Here!</a>  
