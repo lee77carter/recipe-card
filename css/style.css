@@ -19,7 +19,7 @@ h1 {
 	margin: 0;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 48px;
-	color: #F16059;
+	color: #d7251c;
 	text-transform: uppercase;
 }
 
@@ -69,7 +69,7 @@ main {
 }
 
 .recipe h2 {
-	color: #F16059;
+	color: #ca4e48;
 	font-size: 24px;
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
@@ -132,7 +132,7 @@ main {
 	border-bottom: 1px solid #3B3B3B;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
-	color: #F16059;
+	color: #c82820;
 	text-transform: uppercase;
 }
 
